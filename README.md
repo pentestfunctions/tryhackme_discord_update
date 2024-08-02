@@ -1,5 +1,5 @@
 
-# 🛡️ TryHackMe Discord Update Bot
+# 🛡️ TryHackMe Discord Update Leaderboard
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Requests](https://img.shields.io/badge/requests-2.x-orange.svg)
