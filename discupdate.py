@@ -34,7 +34,9 @@ users = {
     "physcological": "cioto",
     "virtualvices": "vexiata",
     "uhlucid": "lucidBeginner",
-    "tcpsolid": "tcpsolid"
+    "tcpsolid": "tcpsolid",
+    "0x1ak4sh": "0x1Ak4sh",
+    "bornunique911": "Bornunique911"
 }
 
 # Function to get user data from TryHackMe
