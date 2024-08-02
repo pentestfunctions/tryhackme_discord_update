@@ -37,14 +37,7 @@ Welcome to the **TryHackMe Discord Update Bot**! This script fetches the TryHack
 
 ### Configuration
 
-1. Edit the `discupdate.py` script to include your Discord bot token and channel ID:
-
-    ```python
-    DISCORD_TOKEN = 'your_discord_bot_token'
-    DISCORD_CHANNEL_ID = 'your_discord_channel_id'
-    ```
-
-2. Update the `users` dictionary with the Discord IDs and corresponding TryHackMe usernames:
+1. Update the `users` dictionary with the Discord IDs and corresponding TryHackMe usernames:
 
     ```python
     users = {
