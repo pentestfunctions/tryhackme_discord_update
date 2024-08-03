@@ -36,7 +36,9 @@ users = {
     "uhlucid": "lucidBeginner",
     "tcpsolid": "tcpsolid",
     "0x1ak4sh": "0x1Ak4sh",
-    "bornunique911": "Bornunique911"
+    "bornunique911": "Bornunique911",
+    "obsidian_909":"0bsidian909",
+    "youjsgotpwned":"Lamentomori"
 }
 
 # Function to get user data from TryHackMe
