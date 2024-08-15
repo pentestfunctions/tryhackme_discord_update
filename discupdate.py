@@ -39,7 +39,8 @@ users = {
     "bornunique911": "Bornunique911",
     "obsidian_909":"0bsidian909",
     "youjsgotpwned":"Lamentomori",
-    "p0pppin":"rxsklife"
+    "p0pppin":"rxsklife",
+    "qnc12b":"1kb2"
 }
 
 # Function to get user data from TryHackMe
