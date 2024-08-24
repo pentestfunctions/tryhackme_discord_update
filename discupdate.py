@@ -16,8 +16,7 @@ users = {
     "hoodietramp": "h00dy",
     "_s_rn_m_": "lostmyoldacc",
     "l0g_lab": "l0g",
-    "thor0411.": "thor0411",
-    "gfyvhlvivt87dfgucvkutdc": "laksar1337",
+    "thor_findme": "thor0411",
     "thexmog": "M0G",
     "1_ycan": "1yc4n0rn0t",
     "smurfbox_": "smurfbox",
@@ -40,7 +39,18 @@ users = {
     "obsidian_909":"0bsidian909",
     "youjsgotpwned":"Lamentomori",
     "p0pppin":"rxsklife",
-    "qnc12b":"1kb2"
+    "qnc12b":"1kb2",
+    "thecybersimon":"0xPentester",
+    "rootfate":"rootfate",
+    "z1l0x":"z1l0x",
+    "bigbrainpro.":"ADNSecurity",
+    "dark_side.84":"Darkside.84",
+    "neembu":"pip.tones",
+    "co0k1em0nst3r":"co0k1em0n5t3r",
+    "error5411":"Dennis2022",
+    "1gbot":"1gbot",
+    "st33x_05560":"Steex",
+    "samarthxia":"samxia99"
 }
 
 # Function to get user data from TryHackMe
